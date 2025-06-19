@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rqey5ZkWV85TboYdrvQM0hPaVym+1gLrourPc6i+VZs=",
+  "Source": "MimicAPI",
+  "BasePath": "_content/MimicAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
